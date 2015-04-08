@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>AppleScript File</key>
+			<string>serif.applescript</string>
+			<key>Image File</key>
+			<string>serif.png</string>
+			<key>Title</key>
+			<string>Convert to Serif</string>
+		</dict>
+		<dict>
+			<key>AppleScript File</key>
+			<string>sans.applescript</string>
+			<key>Image File</key>
+			<string>sans.png</string>
+			<key>Title</key>
+			<string>Convert to Sans Serif</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Convert text to serif or sans serif</string>
+	<key>Extension Identifier</key>
+	<string>com.bygph.popclip.extension.serifToggle</string>
+	<key>Extension Image File</key>
+	<string>serif.png</string>
+	<key>Extension Name</key>
+	<string>Serif / Sans Serif</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
