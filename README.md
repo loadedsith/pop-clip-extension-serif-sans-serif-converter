@@ -1,4 +1,4 @@
-Serif / Sans Serif Converter - PopClip Extention
+Serif / Sans Serif Converter - PopClip Extension
 ==============================
 
 Select text, choose either "`f`" or the "f", observe a magical transformation from serif to sans serif, or backword.
